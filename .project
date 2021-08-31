@@ -3,6 +3,7 @@
 	<name>JAVAGEEK</name>
 	<comment></comment>
 	<projects>
+		<project>testing</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
